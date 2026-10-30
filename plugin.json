@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Turns one input (job photo + caption, blog post, video transcript) into platform-ready variants: post, caption set, email snippet.",
+  "keywords": [
+    "content",
+    "kairos",
+    "repurposer",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-content-repurposer",
+  "repository": "https://github.com/baselam88/kairos-content-repurposer-plugin",
+  "version": "0.1.0"
+}
